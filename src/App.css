@@ -1,0 +1,6 @@
+.root {
+  font-style: italic;
+  & .header {
+    color: blue;
+  }
+}
